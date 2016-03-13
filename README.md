@@ -15,6 +15,7 @@
   env:
     FOO: "BAR"
   cmd:
+    - make setup
     - make test
     - make build
   artifacts:

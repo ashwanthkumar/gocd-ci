@@ -20,6 +20,7 @@ setup:
 	go get github.com/ashwanthkumar/go-gocd
 	go get github.com/spf13/cobra
 	go get github.com/op/go-logging
+	go get gopkg.in/yaml.v2
 	# Test deps
 	go get github.com/stretchr/testify
 

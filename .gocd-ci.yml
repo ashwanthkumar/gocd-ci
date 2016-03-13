@@ -3,9 +3,7 @@
   env:
     FOO: "bar"
   cmd:
-    - command-that-is-supposed-to-fail
     - make test
     - make build
-    - echo "Pipeline is ${GO_PIPELINE_NAME}"
   artifacts:
-   gocd-ci : .
+   gocd-ci* : .

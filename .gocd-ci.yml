@@ -3,6 +3,7 @@
   env:
     FOO: "bar"
   cmd:
+    - make setup
     - make test
     - make build
   artifacts:

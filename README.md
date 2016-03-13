@@ -1,3 +1,4 @@
+[![Build Status](https://snap-ci.com/ashwanthkumar/gocd-ci/branch/master/build_image)](https://snap-ci.com/ashwanthkumar/gocd-ci/branch/master)
 # gocd-ci
 
 `GoCD-CI` helps you build your projects using a `.gocd-ci.yml` file. You just have to download the binary and run it from the project's root.
